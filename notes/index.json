@@ -1,0 +1,7 @@
+[
+  { "id": "week01", "week": 1, "file": "week01.md", "title": "如何不焦慮地學 AI", "summary": "AI 是呆萌的函數機器人；Colab 與 Python 畫圖入門" },
+  { "id": "week05", "week": 5, "file": "week05.md", "title": "AI 怎麼記得前面說過什麼", "summary": "RNN、Attention 的 Q／K／V、Transformer；Vibe Coding 做網頁" },
+  { "id": "week06", "week": 6, "file": "week06.md", "title": "打造自己的對話機器人", "summary": "選模型、負責任地用 AI、system prompt 人設與 Gradio" },
+  { "id": "week08", "week": 8, "file": "week08.md", "title": "AI Agent 的三種設計模式", "summary": "Reflection、Tool Use、Planning；反思迴圈的停止條件" },
+  { "id": "week09", "week": 9, "file": "week09.md", "title": "用 AGENTS.md 讓 AI 照規則做事", "summary": "把專案規則寫成文件，AI 讀完就能接著做" }
+]
